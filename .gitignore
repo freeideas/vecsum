@@ -1,0 +1,12 @@
+# Temporary files
+tmp/
+
+# Large binaries
+ai-coder/bin/
+tools/compiler/
+released/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
